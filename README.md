@@ -1,2 +1,2 @@
 # JavaScript-Projeto-IMC
-Projeto em JS realizado no curso de JavaScript da Alura
+Projeto em JS realizado no curso de JavaScript
